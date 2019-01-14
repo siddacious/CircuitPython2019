@@ -1,4 +1,4 @@
-## \#circuitpython2019
+## \#CircuitPython2019
 
 A bit more than a year ago I had been programming for most of my adult life but had never actively pursued or developed my skills in something that I have had an interest in since even before learning to program: electronics. I learned to solder well before I learned to code by building kits with my father, however for some combination of internal and external factors lead me away from hardware and towards software. In the last year and a half I’ve ordered 15 boards of my own design from OSH Park and have built and used them on projects that I never even conceived of before starting down the road of hardware and electronics. Additionally I’m now a active participant in and contributor to the Open Source community, something that I had previously largely been a passive consumer of.
 
